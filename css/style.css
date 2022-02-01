@@ -1,0 +1,145 @@
+body{
+    width: 100%;
+    margin: 0 0 0 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+
+
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.60rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #B762C1;
+    font-weight: bolder;
+    line-height: 2;
+}
+.piro{
+    margin: 0;
+    color: #B762C1;
+    font-weight: normal;
+    font-size: 2.50rem;
+}
+h2{
+   
+    font-family: 'Montserrat', sans-serif;
+    color: #1572A1;
+    font-size: 2rem;
+    }
+
+    h3{
+   
+        font-family: 'Montserrat', sans-serif;
+        color: #66BFBF;
+        }
+
+.top_container{
+background-color: #D3DEDC ;
+position: relative;
+padding-top: 100px;
+
+}
+.middle-container{
+
+    background-color: #D3DEDC ;
+    padding: 20px;
+    position: relative;
+}
+.bottom-container{
+
+background-color: #9AD0EC;
+margin-bottom: 0;
+padding: 10px;
+}
+.cloud_top{
+    height: 150px;
+    width: auto;
+    position: absolute;
+    right: 20%;
+    top: 8%;
+}
+.cloud_bottom{
+    height: 150px;
+    width: auto;
+    position: absolute;
+    left: 10%;
+    top: 15%;
+}
+.mountain{
+    height:50%;
+    width: 100%;
+}
+.pro{
+    text-decoration-line: underline;
+}
+
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 100%;
+    background-color: #FFFDDE;
+}
+.skill2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    border-radius: 100%;
+    background-color: #FFFDDE;
+}
+hr{
+    border:#B762C1;
+    border-style: none;
+    border-top-style:dotted ;
+    border-width: 10px;
+   
+    /* height: 2px; */
+    width: 5%;
+}
+.btn {
+    background-color: blue; 
+    border:none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .btn:hover{
+
+    background-color: lightseagreen; 
+    border:none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    
+    display: inline-block;
+    font-size: 16px;
+  }
+.footer-link{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+}
+.contact_img{
+    width: 10%;
+    float: left;
+    margin-right: 20px;
+}
+.profile{
+    padding: 20px;
+}
+.copyright{
+    color: white;
+}
